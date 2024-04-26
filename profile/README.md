@@ -5,9 +5,6 @@
 # Welcome to De-Gels
 The first proof of profits distribution model in an all new gaming ecosystem designed around an NFT collection of morphing gelatinous creatures called De-Gels.
 
-## Info
-<img src="https://github.com/orgs/Degels/projects/1/assets/35517586/f10833c0-b251-43f1-a4fa-714e727b998a" width="150" height="150" align="right">
-
 ### Website 
 https://de-gels.com
 
@@ -20,3 +17,6 @@ https://de-gels.notion.site/Whitepaper-9539854972864fc0b9de422988ae12f0
 ### X
 https://twitter.com/De_Gels
 
+<p align="center">
+  <img src="https://github.com/Degels/.github/assets/35517586/1650909f-8ac5-4c66-bf5b-146a27be46a8"/>
+</p>
